@@ -24,8 +24,6 @@ With this implementation, we reached achieved best test score of 0.38 AUC
 ### Downloading Dataset
 The existing work is performed on a dataset from the [Kaggle Deepfake Detection Challenge](https://www.kaggle.com/c/deepfake-detection-challenge)
 
-If you are working on the WWT DGX server (IP address: 10.255.174.68), at this location: /raid/raid/baa-projects/datasets
-
 Otherwise, to download the dataset from Kaggle, you can use any method [listed in the discussion here](https://www.kaggle.com/c/deepfake-detection-challenge/discussion/121695) to suit your requirements
 
 
