@@ -15,7 +15,7 @@ We used a base kernel for the solution, where Blazeface is used as face dectecti
 - Side Face Augmentation
 - Ensemble of expirements above
 
-With this implementation, we reached achieved best test score of 0.38 AUC
+With this implementation, we reached achieved best test score of 0.83 AUC
 
 ## Getting started
 
